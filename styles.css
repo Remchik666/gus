@@ -1,0 +1,226 @@
+ body {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+ }
+
+ .main-page {
+    width: 100%;
+    background: linear-gradient(90deg, #fcfefe 0%, #a5deff 100%);
+ }
+
+ .main-page-text-container {
+    border-radius: 40px;
+    background: #fff;
+    padding-top: 60px;
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1170px;
+    position: relative;
+}
+
+
+.main-page-hello-text {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+
+.main-page-title {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 112%;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.main-page-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-top: 0;
+    margin-bottom: 32;
+}
+
+.main-page-btn {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+    border: 000;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 172px;
+    height: 48px;
+    background: #ff6b0a;
+}
+
+.goit-logo {
+    position: absolute;
+    top: 32px;
+    left: 0;
+}
+
+.facts-title {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-bottom: 32px;
+    margin-top: 0;
+}
+
+.facts {
+    padding-top: 48px;
+    padding-bottom: 100px;
+    text-align: center;
+}
+
+.facts-tryzub {
+    margin-bottom: 24px;
+
+}
+
+.facts-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1b1d1f;
+    width: 772px;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 24px;
+}
+
+.facts-item-title {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    color: #1b1d1f;
+    margin-bottom: 32px;
+    margin-top: 0;
+}
+
+.facts-item-descr {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    color: #1b1d1f;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.facts-item {
+    width: calc((100% / 3) - (24px * 2) / 3);
+}
+
+.feedback {
+    width: 100%;
+    height: 724px;
+    background: linear-gradient(90deg, #fcfefe 0%, #a5deff 100%);
+    padding-top: 80px;
+    padding-left: calc((100% / 2) - 285px);
+}
+
+.gus-back {
+    background: #fff;
+    border-radius: 40px;
+    width: 570px;
+    height: 564px;
+}
+
+.trezub-back {
+    margin-top: 32px;
+    margin-bottom: 0;
+    padding-left: calc((100% / 2) - 15px);
+}
+
+.please {
+    padding-left: calc((100% / 2) - 199px);
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    color: #1b1d1f;
+    margin-top: 32px;
+    margin-bottom: 0;
+}
+
+.invite-gus {
+    padding-left: calc((100% / 2) - 141px);
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-top: 12px;
+    margin-bottom: 0;
+}
+
+.info {
+    padding-left: 60px;
+    margin-top: 24px;
+    width: 450px;
+    height: 92px;
+    margin-bottom: 0;
+}
+
+.name {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1b1d1f;
+    margin-bottom: 0;
+}
+
+.pole {
+    margin-top: 8px;
+    border: 1px solid #005bbb;
+    border-radius: 8px;
+    width: 450px;
+    height: 50px;
+    background: #fff;
+    cursor: text;
+    padding-left: 8px;
+    font-size: 24px;
+}
+
+.feedback-page-btn {
+    margin-top: 48px;
+    margin-left: calc((100% / 2) - 86px);
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #fff;
+    border: 000;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    padding-right: 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 172px;
+    height: 48px;
+    background: #ff6b0a;
+}
